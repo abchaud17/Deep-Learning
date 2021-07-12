@@ -44,8 +44,3 @@ Create a CNN model, which can accurately detect 9 classes present in the dataset
 Choose an appropriate optimiser and loss function for model training
 Train the model for ~30 epochs
 Write your findings after the model fit, see if the issues are resolved or not?
- 
-
- 
-
-The model training may take time to train and hence you can use Google colab.
