@@ -1,4 +1,4 @@
-# Deep-Learning
+# Convolutional Neural Network
 
 In this assignment, you will build a multiclass classification model using a custom convolutional neural network in tensorflow. 
 
